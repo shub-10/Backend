@@ -1,0 +1,17 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "nodemon": "^3.1.9"
+  }
+}
